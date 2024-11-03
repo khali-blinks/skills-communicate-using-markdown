@@ -9,3 +9,7 @@ This is my first markdown in github that describes my code.
 let myVar = "What's up Khali";
 console.log(myVar);
 ```
+## Task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
